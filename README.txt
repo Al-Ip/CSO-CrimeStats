@@ -1,6 +1,9 @@
 # CSO-CrimeStats-Application
 Java - Client/ Server Application
 
+NOTE!!!-------
+Please run the "Server.java" class first then run "TitleForm.java" to launch the GUI
+
 Features
   •	Client server application.
   •	Each interaction with the database is on a separate thread in the server class
